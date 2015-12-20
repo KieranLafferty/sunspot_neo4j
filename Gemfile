@@ -3,9 +3,9 @@ source "http://rubygems.org"
 # Example:
 #   gem "activesupport", ">= 2.3.5"
 
-gem 'neo4j', '~> 4.1.1'
-gem "sunspot", ">= 1.1.0"
-gem "sunspot_rails", ">= 1.1.0"
+gem 'neo4j'
+gem "sunspot"
+gem "sunspot_rails"
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
